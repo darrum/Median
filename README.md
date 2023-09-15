@@ -7,7 +7,7 @@ This is an educational project for calculating median of given numbers
 
 ## Usage
 ```
-java median.java
+java Main.java
 ```
 
 ## Copyright
